@@ -15,9 +15,9 @@ This repository is a personal learning workspace where I practice C programming 
 │
 ├── Projects/
 │   ├── Easy/
-│   │   ├── copy.c
+│   │   ├── str_copy.c
 │   │   ├── data_size.c
-│   │   ├── swap.c
+│   │   ├── int_swap.c
 │   │   └── ...
 │   │
 │   ├── Medium/
