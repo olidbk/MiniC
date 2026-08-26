@@ -1,4 +1,4 @@
-// Phone book with structs
+/* Phone Book With Struct */
 
 #include <stdio.h>
 #include <string.h>

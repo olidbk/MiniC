@@ -1,3 +1,5 @@
+/* Inputs Handling */
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,4 +1,4 @@
-// Swaps two integers using pointers
+/* Integer Swap */
 
 #include <stdio.h>
 

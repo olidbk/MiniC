@@ -1,4 +1,4 @@
-// Draws a pyramid using recursion
+/* Recursion */
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// Array Resize
+/* Array Resize */
 
 #include <stdio.h>
 #include <stdlib.h>

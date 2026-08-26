@@ -1,4 +1,4 @@
-// Draws a pyramid using iteration
+/* Nested Loops */
 
 #include <stdio.h>
 
