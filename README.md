@@ -14,20 +14,21 @@ This repository is a personal learning workspace where I practice C programming 
 │   └── C fundamentals and learning material
 │
 ├── Projects/
-│   ├── Easy/
+│   ├── 01-Easy/
 │   │   ├── str_copy.c
 │   │   ├── data_size.c
 │   │   ├── int_swap.c
 │   │   └── ...
 │   │
-│   ├── Medium/
+│   ├── 02-Medium/
 │   │   └── Intermediate-level C projects
 │   │
-│   └── Hard/
+│   └── 03-Hard/
 │       └── More challenging C projects
 │
 ├── .gitignore
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ---
